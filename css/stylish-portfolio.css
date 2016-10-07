@@ -36,6 +36,19 @@ body {
     color: #fff;
 }
 
+.text-vertical-center h3 {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.text-vertical-center h4 {
+    margin: 40;
+    padding: 0;
+    color: #fff;
+}
+
+
 
 /* Custom Button Styles */
 
